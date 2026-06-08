@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 
 estoy agregando la problematica de 
 la historia
 y tal vez un personaje extra
 
 borre el incio pero agregue un final diferente
-=======
 hola este es un nuevo
 mensaje desde el 
 mas alla
@@ -14,4 +12,6 @@ mas alla
 agregamos cosas a la mitad
 
 este es el final de la historia
->>>>>>> nueva-caracteristica
+
+
+otro cambio por aca
